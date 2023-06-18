@@ -3,6 +3,7 @@
 
 body {
     margin: 20px auto;
+     font-family: 'Happy Monkey', cursive;
 }
 
 .container {
@@ -17,6 +18,7 @@ body {
     border-radius: 50px;
     background: #e0e0e0;
     box-shadow:  20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+    font-family: 'Happy Monkey', cursive;
 }
 
 .scoreboard {
@@ -35,11 +37,13 @@ footer {
     display: flex;
     justify-content: space-around;
     justify-content: center;
+     font-family: 'Happy Monkey', cursive;
     
 }
 
 .scoreBtn {
     color: navy
+     font-family: 'Happy Monkey', cursive;
 }
 
 .scoreBtn:hover {
@@ -53,6 +57,7 @@ footer {
     padding: 5px 15px 5px 15px;
     color: navy;
     border: none;
+     font-family: 'Happy Monkey', cursive;
     
 }
 
@@ -69,6 +74,7 @@ button {
   border-radius: 0.5em;
   color: #DEDEDE;
   box-shadow: 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.3);
+     font-family: 'Happy Monkey', cursive;
 }
 
 
