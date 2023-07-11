@@ -48,6 +48,6 @@ function guestScore3() {
 
 function resetBtn() {
     let endResult = 0
-    document.getElementById("guest-Number").textContext = result * endResult
-    document.getElementById("home-Number").textContext = result * endResult
+    document.getElementById("guest-Number").textContext = 0
+    document.getElementById("home-Number").textContext = 0
 }
