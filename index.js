@@ -50,6 +50,4 @@ function resetBtn() {
     let endResult = 0
     document.getElementById("guest-Number").textContext = result * endResult
     document.getElementById("home-Number").textContext = result * endResult
-    element.reset("guest-Number")
-    element.reset("home-Number")
 }
