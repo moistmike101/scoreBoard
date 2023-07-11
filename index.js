@@ -47,7 +47,6 @@ function guestScore3() {
 }
 
 function resetBtn() {
-    let result = 0
     document.element.reset("home-Number")
     document.element.reset("guest-Number")
 }
