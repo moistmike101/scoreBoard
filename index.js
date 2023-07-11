@@ -49,8 +49,8 @@ function guestScore3() {
 function resetBtn() {
     let gusNumber = 0
     let homeNumber = 0
-    document.getElementById("guest-Number").textContent = " "
-    document.getElementById("home-Number").textContent = " "
+    document.getElementById("guest-Number").textContent = 0
+    document.getElementById("home-Number").textContent = 0
     
     
 }
