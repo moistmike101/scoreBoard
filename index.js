@@ -49,6 +49,5 @@ function guestScore3() {
 function resetBtn() {
     homeNumber.textContent = 0
     gusNumber.textContent = 0
-    count = 0
     
 }
