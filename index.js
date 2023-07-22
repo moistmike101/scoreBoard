@@ -46,9 +46,7 @@ function guestScore3() {
     document.getElementById("guest-Number").textContent = result
 }
 
-
-
 function resetBtn() {
-    homeNumber.reset()
-    gusNumber.reset()
+  var element = document.getElementById(" form_id ");
+         element.reset()
 }
